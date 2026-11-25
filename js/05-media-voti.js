@@ -3,10 +3,10 @@
 
 /*
   STEPS
-  1 -
-  2 -
-  3 -
-  4 -
+  1 -chiedo il numero di voti
+  2 -faccio un controllo sui voti
+  3 -chiedo tutti i numeri singolarmente 
+  4 -faccio la media e la mostro fuori dal ciclo
 */
 
 // # Fase di preparazione
