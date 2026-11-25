@@ -16,7 +16,6 @@ const piano = Number(risposta);
 if (risposta === null || risposta.trim() === "" || !Number.isInteger(piano) || piano < 0) {
   alert("Piano non valido");
 } else {
-  let i = 0;
   for (let i = 0; i <= piano; i++) {
     console.log(`Piano ${i}`);
   }
